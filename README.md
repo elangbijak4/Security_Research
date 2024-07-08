@@ -1,4 +1,6 @@
-# Security_Research
+# ![Logo](logo_almudaya5.png) Security_Research
+
+## Almudaya Research Institute
 
 ## Overview
 Welcome to the Security_Research repository. This repository contains various offensive security tools developed as part of our cybersecurity research. These tools are intended strictly for educational and research purposes in the field of cybersecurity.
@@ -37,5 +39,5 @@ For any questions, concerns, or collaboration requests, please contact [your ema
 ## Legal Notice
 Using this repository constitutes acceptance of this disclaimer and all associated terms. Always follow ethical guidelines and obtain proper authorization before using any offensive security tools.
 
-Almudaya Reseaarch Institute
+Almudaya Research Institute:
 almudaya.research.institute@gmail.com
