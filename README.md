@@ -34,7 +34,7 @@ We welcome contributions from the community. If you have improvements, bug fixes
 This repository is licensed under the [MIT License](LICENSE). Please review the license terms before using any code from this repository.
 
 ## Contact
-For any questions, concerns, or collaboration requests, please contact [your email or contact information].
+For any questions, concerns, or collaboration requests, please contact [almudaya.research.institute@gmail.com].
 
 ## Legal Notice
 Using this repository constitutes acceptance of this disclaimer and all associated terms. Always follow ethical guidelines and obtain proper authorization before using any offensive security tools.
